@@ -17,5 +17,7 @@ Kindly refer
 
 This is hybrid model of CNN and Bi-LSTM. Bi-LSTM is explained above. CNN helps us to consider words as Bi-Gram. Then we are doing Max-pooling to do sampling
 
+This hybrid architecture has performed better than the only Bi-LSTM
+
 * Movie Sentiment Classification2.ipynb 
 * Movie Sentiment Classification2.py
