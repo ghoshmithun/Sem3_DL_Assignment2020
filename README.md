@@ -23,3 +23,14 @@ This hybrid architecture has performed better than the only Bi-LSTM. Please refe
 
 * Movie Sentiment Classification2.ipynb 
 * Movie Sentiment Classification2.py
+
+
+## Implementation 3
+
+Transfer Learning using BERT pretrained model using CPU only. It is slow
+https://github.com/ghoshmithun/Sem3_DL_Assignment2020/blob/main/Movie_Sentiment_Classification_Transfer_learning.ipynb
+
+## Implementation 4
+
+This is remarkably fast. But we should tokenize paragraph for further improving reslult. This is much faster than CPU based implementation
+https://github.com/ghoshmithun/Sem3_DL_Assignment2020/blob/main/Movie_Sentiment_Classification_Transfer_learning_with_GPU.ipynb
